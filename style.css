@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<html lang=”en”>
-<head>
-<title> Test Page </title>
-<link rel="stylesheet" type="text/css" href="style.css" />
-</head>
-<meta charset=”utf-8”>
-<title> Git Test Page </title>
-</head>
-<body>
-body { background: pink; }
-</body>
-</html>
+body { background: pink; font-family: "Comic Sans MS"; }
